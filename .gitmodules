@@ -1,0 +1,3 @@
+[submodule "efernandez-kata-tdd"]
+	path = efernandez-kata-tdd
+	url = https://github.com/efernandezleon/kata-tdd.git
